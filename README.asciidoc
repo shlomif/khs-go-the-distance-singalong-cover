@@ -3,3 +3,7 @@
 * `krishna1.jpg` is a photo by "hiya" under CC-by-nc-sa.
 * `Recording_41.mp3` is based on https://www.youtube.com/watch?v=xfUa4IVRZFI[“Go The Distance - Hercules - Shawn Hook & KHS - YouTube”]
 * `mix.bash` was written by Shlomi Fish and uses https://ffmpeg.org/[ffmpeg]
+
+Sources: https://github.com/shlomif/khs-go-the-distance-singalong-cover .
+
+Shlomi Fish places his changes under CC0.
